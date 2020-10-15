@@ -1,23 +1,24 @@
 {
-  "stockItem" : 
-  "PartNo": "L0000004945",
-  "PartName": "اينوفا D188105 ديكور حوائط سنجل مطبخ سيريا فاشون 26×84 اول",
-  "PartPrice": 284.00,
-  "PartWarehouses": [
-    {
-      "Warehouse": "الفحص- الديكور",
-      "ReservedQTY": 2.00,
-      "FreeQTY": 6.00
-    }
-  ],
-  "PartReservedInvoices": [
-    {
-      "InvoiceNo": 4192,
-      "InvoiceDate": "\/Date(1462268731500)\/",
-      "Customer": "العقيد / أمير عبدالفتاح",
-      "InvoiceQTY": 2.00,
-      "ReservedQTY": 2.00,
-      "SalesMan": "يوسف خيري"
-    }
-  ]
+  stockItem: {
+    "PartNo": "L0000004945",
+    "PartName": "اينوفا D188105 ديكور حوائط سنجل مطبخ سيريا فاشون 26×84 اول",
+    "PartPrice": 284.00,
+    "PartWarehouses": [
+      {
+        "Warehouse": "الفحص- الديكور",
+        "ReservedQTY": 2.00,
+        "FreeQTY": 6.00
+      }
+    ],
+    "PartReservedInvoices": [
+      {
+        "InvoiceNo": 4192,
+        "InvoiceDate": "\/Date(1462268731500)\/",
+        "Customer": "العقيد / أمير عبدالفتاح",
+        "InvoiceQTY": 2.00,
+        "ReservedQTY": 2.00,
+        "SalesMan": "يوسف خيري"
+      }
+    ]
+  }
 }
