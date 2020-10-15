@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"PartNo":"L0000004945","PartName":"اينوفا D188105 ديكور حوائط سنجل مطبخ سيريا فاشون 26×84 اول","PartPrice":284.00,"PartWarehouses":[{"Warehouse":"الفحص- الديكور","ReservedQTY":2.00,"FreeQTY":6.00}],"PartReservedInvoices":[{"InvoiceNo":4192,"InvoiceDate":"\/Date(1462268731500)\/","Customer":"العقيد / أمير عبدالفتاح","InvoiceQTY":2.00,"ReservedQTY":2.00,"SalesMan":"يوسف خيري"}]}
